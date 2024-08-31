@@ -68,6 +68,8 @@ Before you begin, ensure you have the following:
 
 ## (Optional) Choosing a Different Jekyll Theme
 
+By default this repo uses this theme: [https://github.com/byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume)
+
 If you want to use a different Jekyll theme, follow these steps:
 
 1. **Find a Jekyll Theme**
