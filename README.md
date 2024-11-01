@@ -16,18 +16,23 @@ Before you begin, ensure you have the following:
    - Click the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
    - Remove "`-template`" from your new repo name so that the repo name is just "`portfolio`", or whatever you'd like to name it.
 
-2. **Clone Your Fork**
+2. **Enable GitHub Actions **
+   - Browse to your forked repository on GitHub.
+   - Navigate to the `Actions` tab.
+   - Confirm that you'd like to use the GitHub Actions copied over from the fork defined in the `.github/workflows` directory.
+
+3. **Clone Your Fork**
    - Open your terminal and run the following command, replacing `YOUR_USERNAME` with your GitHub username and `YOUR_REPO_NAME` with your chosen repo name:
      ```
      git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
      ```
 
-3. **Navigate to the Project Directory**
+4. **Navigate to the Project Directory**
    ```
    cd YOUR_REPO_NAME
    ```
 
-4. **Install Dependencies**
+5. **Install Dependencies**
    - Run the following command to install the required gems:
      ```
      bundle install
@@ -58,13 +63,10 @@ Before you begin, ensure you have the following:
     git commit -m "Customize site"
     git push origin main
     ```
-2. **Enable GitHub Pages**
-   - Go to your repository on GitHub.
-   - Navigate to `Settings` > `Pages`.
-   - Under "Source," select the branch you want to use (usually `main`) and click "Save."
 
-3. **Visit Your Site**
+2. **Visit Your Site**
    - Your site should be live at `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME`.
+   - You can check your GitHub Pages status and settings under `Settings > Pages` in your repo.
 
 ## (Optional) Choosing a Different Jekyll Theme
 
