@@ -2,21 +2,25 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
+  - title: Angel City Lumber
     role: Project Manager
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Led client consultations for selecting sustainable urban lumber for projects.
+      - Supervised projects through multiple departments, ensuring smooth operations.
+      - Developed custom workflows for inventory tracking and order fulfillment.
+      - Trained and mentored new employees in millwork operations and customer service.
+    date: Apr. 2021 - Jan. 2024
+  - title: A1 Array
+    role: Camera Operator & Technician
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Operated multi-camera array systems at high-profile events, including Coachella, luxury weddings, and corporate activations.
+      - Engaged with thousands of guests, providing high-energy interactions and ensuring a seamless customer experience.
+      - Managed on-site troubleshooting for multi-camera rigs, lighting, and software to ensure uninterrupted operations.
+    date: May. 2014 - Jan. 2020
+  - title: Freelance
+    role: Artist & Songwriter
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Produced and recorded high-quality music independently, overseeing the full creative process.
+      - Licensed original music for TV, film, and commercial projects, reaching diverse audiences.
+      - Performed at hundreds of live shows, including festivals, venues, and intimate performances.
+    date: Aug. 2013 - present
