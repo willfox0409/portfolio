@@ -1,18 +1,15 @@
-title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+title: Will Fox Porfolio
+profile_img: /assets/img/Favorite2.jpg
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Will Fox"
+job: "Full Stack Software Developer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 774-279-4835
+address: Los Angeles, CA
+email: william.macdonald.fox@gmail.com
+linkedin_username: williammacdonaldfox
+github_username: willfox0409
+instagram_username: willfoxsongs
 
 theme: jekyll-professional-resume
 
