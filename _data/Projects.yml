@@ -2,17 +2,21 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Pet Matchmaker ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "<a href='https://pet-matchmaker-fe.vercel.app/' target='_blank'>Pet Matchmaker</a>"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "Tea Service([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Built a full-stack application to match users with ideal pets based on lifestyle, temperament, and location using a dynamic questionnaire.
+      - Implemented a service-oriented architecture with a Rails API backend and React frontend, ensuring a clean separation of concerns.
+      - Designed and consumed RESTful API endpoints to manage users, questions, and pet match results with full CRUD functionality.
+      - Engineered logic to filter and recommend pets based on constraints like apartment size, climate, and energy level — helping reduce mismatched pet adoptions.
+      - "Technologies Used: React, Ruby on Rails, PostgreSQL, JavaScript, HTML/CSS, RESTful APIs, Postman, External API Integration, RSpec, Cypress, Git/GitHub"
+    image: "![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JHIHjQgbkOM2dn-91tOVC6cfHWsmQBeCzt0Y-SAmA1sSi4JWv69eu7gkN0fWl2j56cQ&usqp=CAU)"
+  - title: "Tea Subscription Service (<a href='https://github.com/willfox0409/tea_subscription_frontend' target='_blank'>Frontend</a> / <a href='https://github.com/willfox0409/tea_subscription_backend' target='_blank'>Backend</a>)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
+      - Built a full-stack Tea Subscription Service admin portal with a Rails API backend and a React frontend, following RESTful architecture.
+      - Engineered endpoints to manage subscriptions, including viewing all subscriptions, detailed views with nested tea and customer data, and cancel/reactivate functionality.
+      - Designed intuitive frontend components with React to list, filter, and explore subscriptions by status, ensuring clear hierarchy and usability.
+      - Prioritized MVP delivery and clean code architecture, incorporating thoughtful component design, state management, and backend serialization for seamless API consumption.
+      - React, Ruby on Rails, PostgreSQL, JavaScript, HTML/CSS, RESTful APIs, Postman, RSpec, Cypress, Git/GitHub
     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
   - title: "Rancid Tomatillos ([https://pitorch.org/](https://pytorch.org/))" 
     description: 
