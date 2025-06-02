@@ -17,9 +17,14 @@ contents:
       - Designed intuitive frontend components with React to list, filter, and explore subscriptions by status, ensuring clear hierarchy and usability.
       - Prioritized MVP delivery and clean code architecture, incorporating thoughtful component design, state management, and backend serialization for seamless API consumption.
       - React, Ruby on Rails, PostgreSQL, JavaScript, HTML/CSS, RESTful APIs, Postman, RSpec, Cypress, Git/GitHub
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "Rancid Tomatillos ([https://pitorch.org/](https://pytorch.org/))" 
+    image: "![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogBmlEcblKccqh9fV8ToTZ7VjDYyydYelrQ&s)"
+  - title: "Tracker (Capstone Project) (<a href='https://github.com/turingschool/tracker-crm' target='_blank'>Backend</a>)" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Collaborative capstone project contributing to a production-level, continuously deployed web app used by the Turing community.
+      - Brownfield codebase with existing architecture, requiring thoughtful debugging, refactoring, and integration of new features alongside a team of developers.
+      - Tracker is an app that helps users organize their job search and track the status of job applications, including storing company info, interview questions, and networking notes.
+      - Actively working on implementing an AI-powered Answer Feedback service that analyzes user responses to interview questions and provides targeted, constructive feedback.
+      - Gaining real-world experience with TypeScript, version control best practices, API design, and collaborative agile workflows in a multi-developer environment.
+      - Designed and tested a service object to interface with the OpenAI API, returning structured feedback on interview answers using a custom prompt and response parser.
+      - Helped improve test coverage by using RSpec and VCR to record and replay API calls, making sure the app behaves consistently and doesn’t break when changes are made.
+    image: "![](https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/79/original/turing-logo-cr.png)"
