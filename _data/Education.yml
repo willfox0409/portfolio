@@ -1,5 +1,5 @@
 subject: Education
-listing-order: 1
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Software and Design, Remote
@@ -9,6 +9,6 @@ contents:
     date: Oct. 2024 - June. 2025
   - title: Tufts University 
     description:
-      - BA in Music Theory
+      - BA in Music Theory, Ethnomusicology, History
     date: Sep. 2008 - May. 2012
  

@@ -13,6 +13,9 @@ instagram_username: willfoxsongs
 
 theme: jekyll-professional-resume
 
+include:
+  - _includes/custom-head.html
+
 exclude:
   - _posts/
   - resources/

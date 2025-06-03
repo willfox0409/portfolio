@@ -1,5 +1,5 @@
 subject: Projects
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "<a href='https://pet-matchmaker-fe.vercel.app/' target='_blank'>Pet Matchmaker</a>"
@@ -9,7 +9,7 @@ contents:
       - Designed and consumed RESTful API endpoints to manage users, questions, and pet match results with full CRUD functionality.
       - Engineered logic to filter and recommend pets based on constraints like apartment size, climate, and energy level — helping reduce mismatched pet adoptions.
       - "Technologies Used: React, Ruby on Rails, PostgreSQL, JavaScript, HTML/CSS, RESTful APIs, Postman, External API Integration, RSpec, Cypress, Git/GitHub"
-    image: "![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JHIHjQgbkOM2dn-91tOVC6cfHWsmQBeCzt0Y-SAmA1sSi4JWv69eu7gkN0fWl2j56cQ&usqp=CAU)"
+    image: "![](/assets/img/pet_matchmaker_screenshot.png)"
   - title: "Tea Subscription Service (<a href='https://github.com/willfox0409/tea_subscription_frontend' target='_blank'>Frontend</a> / <a href='https://github.com/willfox0409/tea_subscription_backend' target='_blank'>Backend</a>)"
     description: 
       - Built a full-stack Tea Subscription Service admin portal with a Rails API backend and a React frontend, following RESTful architecture.
@@ -17,7 +17,7 @@ contents:
       - Designed intuitive frontend components with React to list, filter, and explore subscriptions by status, ensuring clear hierarchy and usability.
       - Prioritized MVP delivery and clean code architecture, incorporating thoughtful component design, state management, and backend serialization for seamless API consumption.
       - React, Ruby on Rails, PostgreSQL, JavaScript, HTML/CSS, RESTful APIs, Postman, RSpec, Cypress, Git/GitHub
-    image: "![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogBmlEcblKccqh9fV8ToTZ7VjDYyydYelrQ&s)"
+    image: "![](/assets/img/rock_and_brew_screenshot.png)"
   - title: "Tracker (Capstone Project) (<a href='https://github.com/turingschool/tracker-crm' target='_blank'>Backend</a>)" 
     description: 
       - Collaborative capstone project contributing to a production-level, continuously deployed web app used by the Turing community.
@@ -27,4 +27,4 @@ contents:
       - Gaining real-world experience with TypeScript, version control best practices, API design, and collaborative agile workflows in a multi-developer environment.
       - Designed and tested a service object to interface with the OpenAI API, returning structured feedback on interview answers using a custom prompt and response parser.
       - Helped improve test coverage by using RSpec and VCR to record and replay API calls, making sure the app behaves consistently and doesn’t break when changes are made.
-    image: "![](https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/79/original/turing-logo-cr.png)"
+    image: "![](/assets/img/tracker_screenshot.png)"

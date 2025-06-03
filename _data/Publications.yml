@@ -1,11 +1,11 @@
-subject: Publications
-listing-order: 4
-icon: "/assets/img/flask.svg"
+subject: About Me
+listing-order: 1
+icon: "/assets/img/about_me.png"
 contents:
-  - title: Journal
-    ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+  - title:
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - I grew up across six countries — from Texas to Nigeria, France to Brazil — an experience that shaped my ability to adapt, listen deeply, and build genuine connections in all kinds of environments. Throughout it all, music was my constant. For over a decade, I’ve written, recorded, and performed original songs, building community through live shows, workshops, and collaboration.
+
+      - Outside of music, I’ve spent years working in the service industry and, more recently, managing custom projects at a sustainable urban lumberyard in Los Angeles. Those roles taught me how to stay grounded under pressure, move fluidly across disciplines, and approach every task with care — always keeping people at the center of the process. Whether I was stepping in to wash dishes, making an irreversible cut, or managing the installation of a two-ton log bench, I learned to show up fully, no matter the scale.
+
+      - Now, as a full-stack software developer, I bring that same sense of care, creativity, and collaboration to the products I help build. I’m drawn to mission-driven work, and I believe that great tech — like great art — has the power to improve lives, spark joy, and bring people together.

@@ -1,26 +1,33 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: Angel City Lumber
-    role: Project Manager/Retail Manager/Millworks Team
+    role: Project Manager/Retail Manager/Craftsman
     description:
-      - Led client consultations for selecting sustainable urban lumber for projects.
+      - Led client consultations for selecting sustainable urban lumber for both personal and commerical projects.
+      - Championed the company’s sustainability mission through outreach to local communities and industry professionals.
       - Supervised projects through multiple departments, ensuring smooth operations.
       - Developed custom workflows for inventory tracking and order fulfillment.
       - Trained and mentored new employees in millwork operations and customer service.
+      - Approached each build with a holistic perspective — balancing the hands-on attention of a laborer, the coordination of a manager, and the care of someone advocating for the client’s best interest.
     date: Apr. 2021 - Jan. 2024
   - title: A1 Array
-    role: Camera Operator & Technician
+    role: 3D Camera Operator & Technician
     description: 
-      - Operated multi-camera array systems at high-profile events, including Coachella, luxury weddings, and corporate activations.
+      - Operated a cutting-edge multi-camera array system at high-profile gatherings, including weddings, brand activations, private parties, and corporate showcases.
       - Engaged with thousands of guests, providing high-energy interactions and ensuring a seamless customer experience.
-      - Managed on-site troubleshooting for multi-camera rigs, lighting, and software to ensure uninterrupted operations.
+      - Handled client correspondence and played a key role in securing future bookings by engaging guests, networking with organizers, and demonstrating the system’s creative potential.
+      - Advocated for the brand at every opportunity, sharing the excitement and artistic appeal of the technology with attendees, planners, and prospective clients.
     date: May. 2014 - Jan. 2020
   - title: Freelance
     role: Artist & Songwriter
     description: 
-      - Produced and recorded high-quality music independently, overseeing the full creative process.
-      - Licensed original music for TV, film, and commercial projects, reaching diverse audiences.
-      - Performed at hundreds of live shows, including festivals, venues, and intimate performances.
+      - Wrote, recorded, and released multiple albums over the past 12 years, collaborating with a wide range of world-class musicians.
+      - Helped cultivate a diverse and supportive music community in Los Angeles, always advocating for fair pay, inclusivity, and creative integrity.
+      - Licensed original songs for film, TV, and commercial projects — bringing heartfelt music to wider audiences.
+      - Performed hundreds of live shows, from intimate backyard sets to festival stages.
+      - Passionate about using music as a force for good — one person, one song at a time.
+      - <a href="https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67?si=C_xE10d6SD-JZvY57Cu_Vg" target="_blank">Listen on Spotify</a>
+      - <a href="https://linktr.ee/willfoxsongs" target="_blank">Visit my Linktree</a>
     date: Aug. 2013 - present
